@@ -100,3 +100,4 @@ plt.figtext(0.1, 0.02, plot4_explanation, ha='left', va='center',
 
 # Save the infographic
 plt.savefig("22094702.png", dpi=300)
+plt.show()
